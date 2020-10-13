@@ -1,2 +1,2 @@
-# Programmingart
- Programlama sanattır. / programmingart
+# Programming-Art
+ Programlama sanattır. / #programmingart
